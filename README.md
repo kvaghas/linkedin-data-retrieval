@@ -1,5 +1,5 @@
 ## Retrieving data from LinkedIn using python
-This script helps you retrieve user & jobs data from LinkedIn and saving it as documents in corresponding directory.
+This script helps you retrieve user & jobs data from LinkedIn and saves it as documents in corresponding directory.
 
 ## Requirements
 
